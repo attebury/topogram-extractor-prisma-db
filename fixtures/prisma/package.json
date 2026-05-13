@@ -1,0 +1,8 @@
+{
+  "name": "fixture-prisma-app",
+  "private": true,
+  "dependencies": {
+    "@prisma/client": "^5.0.0",
+    "prisma": "^5.0.0"
+  }
+}
